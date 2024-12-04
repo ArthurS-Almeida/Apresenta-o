@@ -1,8 +1,9 @@
 
-### <div align="center">Me chamo Arthur, sou  Dev. Fullstack Jr. 🚀</div>  
 
-<div align="center">
-<img src="https://amascoteria.com.br/wp-content/uploads/2017/10/Mascote_3d_Pose_A-768x768.jpg" align="center" style="width: 400px" />
+
+<div display="flex" justify-content="space-around">
+<img src="https://i.imgur.com/gVG59Bl.png" align="center" style="width: 100%" />
+ <h1 width="max-content"><strong>Me chamo Arthur, sou  Dev. Fullstack Jr. 🚀</strong></h1>
 </div>  
   
 
@@ -84,19 +85,4 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ArthurS-Almeida&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/>  
-  
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
